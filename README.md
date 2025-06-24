@@ -14,3 +14,6 @@ Now you can view, play, and remix the project!
 ---
 
 If you have any questions, feel free to open an issue or contact me.
+
+
+  If you dont know how to play just visit the project page of my game I have writed on how to play it :)
